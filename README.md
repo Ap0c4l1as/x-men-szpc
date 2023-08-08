@@ -9,7 +9,8 @@ Este foi o projeto que tive o primeiro contato com códigos e esse mundo da prog
 ## Meu objetivo 
 Fazer uma seção dinâmica de seleção de personagens com temática X-Men
 
-[<img src="xmenfihgh.gif">]
+[ <img src="xmenfihgh.gif" alt="xmen">
+]
 
 ###Como Utilizar
 
